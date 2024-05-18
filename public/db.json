@@ -1,0 +1,34 @@
+{
+  "etudiants": [
+    {
+      "id": 1,
+      "nom": "Dupont",
+      "prenom": "Jean",
+      "dateNaissance": "1998-05-15"
+    },
+    {
+      "id": 2,
+      "nom": "Martin",
+      "prenom": "Marie",
+      "dateNaissance": "1997-09-21"
+    },
+    {
+      "id": 3,
+      "nom": "Dubois",
+      "prenom": "Pierre",
+      "dateNaissance": "1999-02-10"
+    },
+    {
+      "nom": "Mohamed ",
+      "prenom": "hamrouni",
+      "dateNaissance": "2003-05-15",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "nom": "yassine ",
+      "prenom": "Mami",
+      "dateNaissance": "1997-09-21"
+    }
+  ]
+}
